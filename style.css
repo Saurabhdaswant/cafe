@@ -149,6 +149,10 @@ nav .menu-btn i {
 /* navbar for  mobile  starts here */
 
 @media (max-width: 940px) {
+  .heading h1 {
+    margin-left: 0.3rem;
+  }
+
   nav .menu-btn i {
     display: block;
     position: absolute;
