@@ -210,6 +210,8 @@ nav .menu-btn i {
 
 /* navbar for  mobile  ends here */
 
+/* responsive for desktop  */
+
 @media (min-width: 940px) {
   body {
     display: flex;
@@ -259,7 +261,7 @@ nav .menu-btn i {
     font-size: 5rem;
   }
   .main-section {
-    margin-top: 5rem;
+    margin-top: 3rem;
     margin-left: 0rem;
   }
 
